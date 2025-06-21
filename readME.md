@@ -76,7 +76,7 @@ This project demonstrates a complete data workflow — from data extraction and 
 - Higher discounts generally reduce profit, can even lead to losses.
 - Technology is the most profitable and high-selling category overall.
 - Consumers contribute the most to sales, but all segments bring value.
-- Sub-categories like Copiers have better profit margins compared to pthers.
+- Sub-categories like Copiers have better profit margins compared to others.
 
 ---
 
